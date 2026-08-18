@@ -1,58 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02369fde-7210-4f81-b817-4e6b5de27168" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/EjerciciosTP1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="02369fde-7210-4f81-b817-4e6b5de27168" name="Changes" comment="Ejercicios TP N°1">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../EjerciciosTP1\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BauDelprato"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BauDelprato/TP1_IngDelConocimiento.git",
+    "accountId": "6bf52ca1-33f1-4257-b655-6d178c113f5b"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5,
   &quot;fromUser&quot;: false
@@ -76,40 +48,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.2.1.executor": "Run",
-    "Python.2.10.executor": "Run",
-    "Python.2.11.executor": "Run",
-    "Python.2.12.executor": "Run",
-    "Python.2.13.executor": "Run",
-    "Python.2.14.executor": "Run",
-    "Python.2.15.executor": "Run",
-    "Python.2.17.executor": "Run",
-    "Python.2.18.executor": "Run",
-    "Python.2.2.executor": "Run",
-    "Python.2.21.executor": "Run",
-    "Python.2.24.executor": "Run",
-    "Python.2.25.executor": "Run",
-    "Python.2.28.executor": "Run",
-    "Python.2.3.executor": "Run",
-    "Python.2.31.executor": "Run",
-    "Python.2.34.executor": "Run",
-    "Python.2.35.executor": "Run",
-    "Python.2.4.executor": "Run",
-    "Python.2.40.executor": "Run",
-    "Python.2.5.executor": "Run",
-    "Python.2.6.executor": "Run",
-    "Python.2.7.executor": "Run",
-    "Python.2.8.executor": "Run",
-    "Python.2.9.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.2.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="EjerciciosTP1" />
@@ -149,7 +121,20 @@
       <option name="presentableId" value="Default" />
       <updated>1786657106837</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejercicios TP N°1">
+      <option name="closed" value="true" />
+      <created>1786979699228</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1786979699229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercicios TP N°1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios TP N°1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
